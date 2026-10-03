@@ -28,8 +28,8 @@
 
 ## 📱 Projects
 
-- **Expiry Tracker** — tracks food expiration dates and sends reminders *(in progress)*
-- **Food Scanner** — scans barcodes and shows ingredients & allergens *(planned)*
+- **Expiry Tracker** *(UIKit)* — tracks food expiration dates and sends reminders *(in progress)*
+- **Food Scanner** *(SwiftUI)* — scans barcodes and shows ingredients & allergens *(planned)*
 
 ---
 
